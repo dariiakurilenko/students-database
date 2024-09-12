@@ -1,0 +1,9 @@
+﻿  DB_of_students.cpp
+D:\вуз\2сем\курсач backup\DB_79\StringBuilderClass.h(10,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\вуз\2сем\курсач backup\DB_79\StringBuilderClass.h(37,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\вуз\2сем\курсач backup\DB_79\ClassMenu.h(87,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\вуз\2сем\курсач backup\DB_79\ClassMenu.h(90,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\вуз\2сем\курсач backup\DB_79\ClassEdit.h(24,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\вуз\2сем\курсач backup\DB_79\StudentDBClass.h(172,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\вуз\2сем\курсач backup\DB_79\StudentClass.h(113): warning C4715: StudentClass::editSex: значение возвращается не при всех путях выполнения
+  DB_of_students.vcxproj -> D:\вуз\2сем\курсач backup\DB_79\x64\Debug\DB_of_students.exe

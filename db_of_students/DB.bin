@@ -1,0 +1,46 @@
+### Start Record
+name:015; value:str:000 -: birthDateString=
+name:009; value:int:004 -: startYear=2002
+name:003; value:int:001 -: sex=0
+name:016; value:str:003 -: recordÑardNumber=ddd
+name:005; value:str:000 -: group=
+name:010; value:str:000 -: department=
+name:007; value:str:000 -: faculty=
+name:010; value:str:000 -: middleName=
+name:004; value:str:000 -: name=
+name:007; value:str:007 -: surName=awdawjh
+### End Record
+### Start Record
+name:018; value:str:001 -: examsResults_0_1_m=4
+name:018; value:str:004 -: examsResults_0_1_n=âûïê
+name:018; value:str:001 -: examsResults_0_0_m=3
+name:018; value:str:006 -: examsResults_0_0_n=öôâôöâ
+name:015; value:str:000 -: birthDateString=
+name:009; value:int:004 -: startYear=2000
+name:003; value:int:001 -: sex=0
+name:016; value:str:004 -: recordÑardNumber=ãîøò
+name:005; value:str:000 -: group=
+name:010; value:str:000 -: department=
+name:007; value:str:000 -: faculty=
+name:010; value:str:000 -: middleName=
+name:004; value:str:000 -: name=
+name:007; value:str:007 -: surName=ààûóàûà
+### End Record
+### Start Record
+name:018; value:str:001 -: examsResults_0_2_m=4
+name:018; value:str:004 -: examsResults_0_2_n=ââôâ
+name:018; value:str:001 -: examsResults_0_1_m=4
+name:018; value:str:004 -: examsResults_0_1_n=öööö
+name:018; value:str:001 -: examsResults_0_0_m=5
+name:018; value:str:004 -: examsResults_0_0_n=âôöâ
+name:015; value:str:000 -: birthDateString=
+name:009; value:int:004 -: startYear=2001
+name:003; value:int:001 -: sex=1
+name:016; value:str:000 -: recordÑardNumber=
+name:005; value:str:000 -: group=
+name:010; value:str:000 -: department=
+name:007; value:str:000 -: faculty=
+name:010; value:str:000 -: middleName=
+name:004; value:str:000 -: name=
+name:007; value:str:002 -: surName=dô
+### End Record
